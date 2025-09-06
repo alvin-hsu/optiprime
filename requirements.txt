@@ -1,0 +1,9 @@
+numpy<2.0.0
+scipy==1.14.1
+jax==0.4.30
+jaxlib==0.4.30
+optax==0.2.4
+flax==0.10.2
+ViennaRNA==2.7.0
+biopython==1.84
+rs3==0.0.16
